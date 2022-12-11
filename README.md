@@ -10,7 +10,7 @@ Esse projeto utiliza NextJs e Tailwind CSS para auxiliar na construção das int
 
 ### Rodando a Aplicação
 
-Basta digitar o comando 'npm run dev' no terminal para rodar a aplicação no modo de desenvolvimento.
+Basta digitar o comando 'npm i' para baixar as dependências e depois 'npm run dev' no terminal para rodar a aplicação no modo de desenvolvimento.
 Depois abra [http://localhost:3000](http://localhost:3000) para ver o resultado no browser.
 
 ![Covid19-1](https://user-images.githubusercontent.com/24281310/205441538-39657e95-5b2b-4f29-aee5-1257b6d6bcf9.png)
